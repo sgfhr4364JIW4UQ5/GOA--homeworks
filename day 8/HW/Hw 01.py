@@ -1,0 +1,5 @@
+enter_number=input("fill with your number _+_:")
+enter_number=input("fill with your number _-_:")
+enter_number=input("fill with your number _*_:")
+enter_number=input("fill with your number _/_:")
+enter_number=input("fill with your number _%_:")
